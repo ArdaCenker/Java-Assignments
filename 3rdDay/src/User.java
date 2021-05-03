@@ -1,4 +1,4 @@
-package day3;
+
 
 public class User {
 	private int id;
